@@ -1,6 +1,6 @@
-# Candidate Mobile
+# Get Repos
 
-Candidate Mobile Application
+Get Repos Mobile Application
 
 ## Getting Started
 
